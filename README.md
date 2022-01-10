@@ -2,6 +2,8 @@
 
 Projeto de estudo para aula da Digital Innovation One.
 
+React + gitHub Api
+
 Demonstração: [GitHub Profile](https://zecazeco.github.io/github-profile-estudo/)
 
 
